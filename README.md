@@ -1,7 +1,5 @@
 ![mahfuj's Image](https://i.postimg.cc/xTrq6zpg/Git-Hub-Banner.png)
 
-
-
 ### About Me 
 Mahfuj Alam is a skilled front-end web developer with expertise in modern web technologies. Proficient in React, Redux, and Next.js, he builds dynamic and user-friendly applications. Mahfuj is well-versed in JavaScript and TypeScript, and enjoys working with Tailwind CSS for efficient styling. His commitment to continuous learning keeps him up-to-date with tools like Firebase and MongoDB, ensuring he can craft both responsive and full-stack solutions.
 
