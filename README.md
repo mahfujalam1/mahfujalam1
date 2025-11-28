@@ -5,7 +5,6 @@ Mahfuj Alam is a skilled front-end web developer with expertise in modern web te
 
 
 
-
 #### Contact Info
 <a href="mailto:mahfujalam5795@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
