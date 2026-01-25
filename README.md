@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mahfujalam1&style=for-the-badge)
 ![mahfuj's Image](https://i.postimg.cc/xTrq6zpg/Git-Hub-Banner.png)
 
 ### About Me 
